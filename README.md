@@ -3,3 +3,4 @@
 [cd-public](https://cd-public.github.io/)
 ## Contributors
 [Zagreb](https://zagreb-ethf23.github.io/)
+[MeteorEatyor] "Legal Name: James D. Wood" (https://meteoreatyor.github.io/)
